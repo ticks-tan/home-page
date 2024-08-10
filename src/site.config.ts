@@ -27,7 +27,7 @@ type SiteConfig = {
 export const siteConfig: SiteConfig = {
 	name: "Ticks",
 	avatarUrl:
-		"https://0.gravatar.com/avatar/6330e594f67655c88aa8a405328b7ee04160a714648d4b3982c52f4175c7f9e3?size=256",
+		"https://gravatar.loli.net/avatar/6330e594f67655c88aa8a405328b7ee04160a714648d4b3982c52f4175c7f9e3?size=256",
 	codeLangQuestion:
 		"What's in your skill arsenal, and how do you rate your expertise?",
 	codeLangs: [

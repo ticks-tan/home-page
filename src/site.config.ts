@@ -25,21 +25,20 @@ type SiteConfig = {
 };
 
 export const siteConfig: SiteConfig = {
-	name: "Ticks",
+	name: "皮皮休",
 	avatarUrl:
 		"https://gravatar.loli.net/avatar/6330e594f67655c88aa8a405328b7ee04160a714648d4b3982c52f4175c7f9e3?size=256",
-	codeLangQuestion:
-		"What's in your skill arsenal, and how do you rate your expertise?",
+	codeLangQuestion: "你平常使用哪些编程语言或技术，使用情况如何？",
 	codeLangs: [
 		{
 			icon: "cpp",
 			name: "C++",
-			usage: 80
+			usage: 80,
 		},
 		{
 			icon: "rust",
 			name: "Rust",
-			usage: 30
+			usage: 30,
 		},
 		{
 			icon: "nodejs",
@@ -49,8 +48,8 @@ export const siteConfig: SiteConfig = {
 		{
 			icon: "linux",
 			name: "Linux",
-			usage: 80
-		}
+			usage: 80,
+		},
 	],
 	concats: [
 		{
@@ -66,16 +65,16 @@ export const siteConfig: SiteConfig = {
 	],
 	websites: [
 		{
-			name: "Blog WebSite",
-			link: "https://blog.ticks.cc",
+			name: "博客网站",
+			link: "https://blog.ppixiu.com",
 		},
 		{
-			name: "Personal Cloud Disk",
+			name: "个人网盘",
 			link: "https://pan.ticks.cc",
 		},
 		{
-			name: "Status Monitor",
-			link: "https://status.ticks.cc",
+			name: "状态监控",
+			link: "https://status.ppixiu.com",
 		},
 	],
 };

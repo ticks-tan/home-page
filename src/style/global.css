@@ -37,3 +37,7 @@ code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
 		monospace;
 }
+
+.transition-bg {
+	transition: background-color 0.2s, color 0.2s;
+}

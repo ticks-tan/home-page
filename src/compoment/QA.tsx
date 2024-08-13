@@ -8,7 +8,7 @@ export type QuestionProps = JSX.HTMLAttributes<HTMLDivElement>;
 
 export const Question: Component<QuestionProps> = (props) => {
 	return (
-		<div class={cn(props.class)}>
+		<div class={cn("transition-bg", props.class)}>
 			<div class="mr-4">
 				<Avatar class="w-10 h-10" fallback="Y" />
 			</div>
@@ -28,7 +28,7 @@ export const Answer: Component<AnswerProps> = (props) => {
 			? siteConfig.name.toUpperCase()
 			: siteConfig.name.slice(0, 2).toUpperCase();
 	return (
-		<div {...props} class={cn(props.class)}>
+		<div {...props} class={cn("transition-bg", props.class)}>
 			<div class="mr-4">
 				<Avatar
 					class="w-10 h-10"

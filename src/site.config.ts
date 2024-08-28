@@ -27,7 +27,7 @@ type SiteConfig = {
 export const siteConfig: SiteConfig = {
 	name: "皮皮休",
 	avatarUrl:
-		"https://gravatar.loli.net/avatar/6330e594f67655c88aa8a405328b7ee04160a714648d4b3982c52f4175c7f9e3?size=256",
+		"https://gravatar.loli.net/avatar/aaf9a3381d1d91f341df192d111082f7?size=256",
 	codeLangQuestion: "你平常使用哪些编程语言或技术，使用情况如何？",
 	codeLangs: [
 		{

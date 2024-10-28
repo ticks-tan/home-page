@@ -69,8 +69,8 @@ export const siteConfig: SiteConfig = {
 			link: "https://blog.ppixiu.com",
 		},
 		{
-			name: "个人网盘",
-			link: "https://pan.ticks.cc",
+			name: "IT工具箱",
+			link: "https://it-tools.ppixiu.com"
 		},
 		{
 			name: "状态监控",

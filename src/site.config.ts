@@ -25,7 +25,7 @@ type SiteConfig = {
 };
 
 export const siteConfig: SiteConfig = {
-	name: "皮皮休",
+	name: "twiify",
 	avatarUrl:
 		"https://gravatar.loli.net/avatar/aaf9a3381d1d91f341df192d111082f7?size=256",
 	codeLangQuestion: "你平常使用哪些编程语言或技术，使用情况如何？",
@@ -60,21 +60,21 @@ export const siteConfig: SiteConfig = {
 		{
 			icon: "mail",
 			name: "Email",
-			link: "mailto:ticks.cc@gmail.com",
+			link: "mailto:ppixiu07@gmail.com",
 		},
 	],
 	websites: [
 		{
 			name: "博客网站",
-			link: "https://blog.ppixiu.com",
+			link: "https://blog.twiify.com",
 		},
 		{
 			name: "IT工具箱",
-			link: "https://it-tools.ppixiu.com"
+			link: "https://it-tools.twiify.com"
 		},
 		{
 			name: "状态监控",
-			link: "https://status.ppixiu.com",
+			link: "https://status.twiify.com",
 		},
 	],
 };

@@ -57,7 +57,7 @@ export default function Component() {
 				<Answer class="flex items-center mb-4">
 					<p class="mb-1">
 						欢迎！👋
-						我是皮皮休，一位游走在互联网的打工人，对计算机很感兴趣，我最喜欢的编程语言是
+						我是 twiify ，一位游走在互联网的打工人，对计算机很感兴趣，我最喜欢的编程语言是
 						C++，最喜欢的操作系统是
 						Linux，欢迎来到我的个人主页，随我一起网上冲浪！（提示：双击头像有惊喜）
 					</p>
